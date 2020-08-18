@@ -1,3 +1,9 @@
+HTML/CSS challenge for Jungle Devs Academy Program
+
+This time in JS language.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
